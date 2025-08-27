@@ -1,7 +1,3 @@
-Here's a `README.md` file that covers all three election programs — **Plurality**, **Runoff**, and **Tideman** — developed as part of your **CS50** coursework from **Harvard**:
-
----
-
 # 🗳️ Election Algorithms in C – CS50 Projects
 
 This repository contains implementations of **three different voting algorithms** — **Plurality**, **Runoff**, and **Tideman** — written in **C** as part of my coursework for **CS50: Introduction to Computer Science** from **Harvard University**.
