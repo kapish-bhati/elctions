@@ -99,5 +99,3 @@ These programs were built as part of **[CS50](https://cs50.harvard.edu/)** – H
 *CS50 Student | Aspiring Software Engineer*
 
 ---
-
-Let me know if you'd like to generate a combined PDF version or want separate READMEs for each file.
